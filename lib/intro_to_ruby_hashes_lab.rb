@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    :designer => "Coco Chanel",
+    :favorite_designer => "Coco Chanel",
     :label => "Chanel"
   }
 end
