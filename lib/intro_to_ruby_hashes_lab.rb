@@ -11,7 +11,7 @@ end
 
 def pioneer
   pioneer = {
-    :id => "Grace Hopper"
+    :name => "Grace Hopper"
   }
 end
 
